@@ -1,0 +1,12 @@
+{
+  "name": "add-watermark-to-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcho4917/watermark-app.git",
+  "author": "marcho4917",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
